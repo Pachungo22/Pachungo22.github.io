@@ -7815,7 +7815,10 @@ textarea.form-control-lg {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
 }
-
+.bg-pito2 {
+  --bs-bg-opacity: 1;
+  background-color: #ff8b3a !important;
+}
 .bg-pito {
   --bs-bg-opacity: 1;
   background-color: #ffff72 !important;
